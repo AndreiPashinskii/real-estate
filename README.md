@@ -9,9 +9,9 @@ Real estate application with rental homes and for-sale properties, advanced prop
 
 ## Features
   
-Hooks (useState, useRouter)  
+*Hooks (useState, useRouter)  
 Async / await data fetching  
-Props 
+Props* 
 
 ## UI screenshots
 
